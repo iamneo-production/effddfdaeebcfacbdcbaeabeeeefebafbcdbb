@@ -1,4 +1,4 @@
-package org.websparrow.config;
+package com.example.springapp.config;
 
 @Configuration
 @EnableWebMvc

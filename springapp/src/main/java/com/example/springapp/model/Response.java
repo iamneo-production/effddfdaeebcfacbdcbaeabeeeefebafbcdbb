@@ -1,4 +1,7 @@
+
 package com.example.springapp.model;
+
+import java.util.Date;
 
 public class Response {
 
