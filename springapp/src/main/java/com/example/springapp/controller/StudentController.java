@@ -1,4 +1,4 @@
-package org.websparrow.controller;
+package com.example.springapp.controller;
 
 @RestController(value = "/student")
 public class StudentController {
